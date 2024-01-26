@@ -31,3 +31,27 @@ build/
 
 ### VS Code ###
 .vscode/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Eclipse additional files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Eclipse JDT (Java Development Tools)
+.metadata/
+
+# Eclipse ATL (Atlas Transformation Language)
+.atlCache/
+
+# Maven Eclipse plugin
+target/
+.project
+
+# JDT-specific (Java Development Tools)
+.classpath
+.factorypath
